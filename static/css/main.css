@@ -1,0 +1,17 @@
+
+
+        body{
+            background-color: blanchedalmond;
+        }
+
+        #total-orders{
+            background-color: cadetblue;
+        }
+
+        #orders-delivered{
+            background-color: aquamarine;
+        }
+
+        #orders-pending{
+            background-color: cornflowerblue;
+        }
